@@ -2,8 +2,8 @@
 
 ![Akwarium na monitorze HDMI](doc/images/foto1.jpg)
 
-Program testowy sprawdzajacy porawdzności działania sprzętu (celem nie było osiągnięcie
-idalnej animacji tylko sprawdzenie czy powstaje obraz)
+Program testowy sprawdzający porawność działania sprzętu (celem nie było osiągnięcie
+idalnej animacji tylko sprawdzenie czy powstaje obraz i jest odczytywany przez monitor)
 
 Animowane akwarium wyświetlane na monitorze HDMI przez Adafruit Feather RP2350. Na ekranie widać gradient wody z promieniami światła, piasek, kamienie, falujące rośliny, bąbelki i 9 ryb o losowych kolorach i rozmiarach. Ryby płyną do losowych celów i płynnie zawracają przy ścianach.
 
