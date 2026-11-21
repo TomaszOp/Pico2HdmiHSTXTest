@@ -5,15 +5,15 @@
 Program testowy sprawdzający porawność działania sprzętu (celem nie było osiągnięcie
 idalnej animacji tylko sprawdzenie czy powstaje obraz i jest odczytywany przez monitor)
 
-Animowane akwarium wyświetlane na monitorze HDMI przez Adafruit Feather RP2350. Na ekranie widać gradient wody z promieniami światła, piasek, kamienie, falujące rośliny, bąbelki i 9 ryb o losowych kolorach i rozmiarach. Ryby płyną do losowych celów i płynnie zawracają przy ścianach.
+Animowane akwarium wyświetlane na monitorze HDMI przez RP2350. Na ekranie widać gradient wody z promieniami światła, piasek, kamienie, falujące rośliny, bąbelki i 9 ryb o losowych kolorach i rozmiarach. Ryby płyną do losowych celów i płynnie zawracają przy ścianach.
 
 Obraz ma rozdzielczość 320x240 w kolorze 16-bit (RGB565), jest podwójnie buforowany i wysyłany na HDMI jako 640x480 @ 60 Hz.
 
 ## Sprzęt
 
 - Adafruit Feather RP2350 (wersja z 8 MB PSRAM)
-- Adafruit DVI Sock / adapter DVI dla złącza HSTX
-- Taśma FFC łącząca złącze HSTX Feathera z adapterem
+- Adafruit DVI Sock / adapter DVI dla złącza HSTX 
+- Taśma FFC łącząca złącze HSTX Feathera z adapterem, 22 pin A-B
 - Kabel HDMI i monitor
 
 ## Oprogramowanie
